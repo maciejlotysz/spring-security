@@ -1,4 +1,4 @@
-package com.redbeardsoftware.auth;
+package com.redbeardsoftware.springsecurity.auth;
 
 import com.google.common.collect.Lists;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -60,4 +60,5 @@ public class FakeApplicationUserDaoService implements ApplicationUserDao{
         );
         return applicationUsers;
     }
+
 }

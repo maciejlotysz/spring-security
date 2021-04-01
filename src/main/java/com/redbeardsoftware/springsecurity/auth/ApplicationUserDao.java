@@ -1,4 +1,4 @@
-package com.redbeardsoftware.auth;
+package com.redbeardsoftware.springsecurity.auth;
 
 import java.util.Optional;
 
